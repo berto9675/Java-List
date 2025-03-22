@@ -1,8 +1,5 @@
 package dev.berto.java_list;
 
-/**
- * Hello world!
- */
 public final class App {
     private App() {
     }
