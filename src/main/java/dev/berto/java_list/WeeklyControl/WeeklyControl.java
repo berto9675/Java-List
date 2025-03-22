@@ -8,7 +8,6 @@ public class WeeklyControl {
 
     public List<String> dayListOfWeek = new ArrayList<>();
 
-    /
     public void createDayList() {
         
         dayListOfWeek.add("Monday");
