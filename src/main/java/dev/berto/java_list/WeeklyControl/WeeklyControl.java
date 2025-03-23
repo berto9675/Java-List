@@ -29,10 +29,10 @@ public class WeeklyControl {
         return dayListOfWeek.size();
     }
    
-   
-    public String getSpecificDayOfWeek(String day) {
+   public String getSpecificDayOfWeek(String day) {
         return dayListOfWeek.contains(day) ? day : null;
     }
+    
     public void sortList() {
         Collections.sort(dayListOfWeek);
     }
